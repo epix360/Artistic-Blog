@@ -1,7 +1,7 @@
 # Default, Defaults
 markdown: 
 highlighter: rouge
-exclude: 
+exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Artist Theme
@@ -10,7 +10,7 @@ description: A small and simple site I made to test out Jekyll. Watch out! I'm g
 baseurl: # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: 
+url: https://epix360.github.io/Artistic-Blog/
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
