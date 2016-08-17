@@ -1,5 +1,5 @@
 ---
-title: Another Post Again
+title: Boom!
 date: '2016-08-17 16:50:00'
 layout: post
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
